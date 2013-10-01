@@ -1,9 +1,10 @@
 MMM Bootstrap Collapse
 ======================
 
-Author: Derek Marcinyshyn
-Date: September 30, 2013
-License: MIT
+*Author: Derek Marcinyshyn
+*Date: September 30, 2013
+*License: MIT
+*http://getbootstrap.com/javascript/#collapse
 
 WordPress shortcode helper plugin for wrapping the Bootstrap Collapse native javascript function for accordion panels.
 
